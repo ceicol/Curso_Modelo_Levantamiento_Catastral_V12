@@ -1,0 +1,8 @@
+Esta carpeta contiene los datos necesarios para desarrollar el taller del Asistente LADM_COL
+
+├── SOPORTES --> Soportes para las fuentes administrativas. Esta carpeta contiene las escrituras públicas que soportan los derechos de dominio.
+│   ├── escritura_01.jpg
+│   ├── escritura_02.jpg
+│   └── escritura_03.png
+├── taller_asistente.gpkg --> Archivo de base de datos en formato geopackage que tiene la información entregada por un topógrafo al realizar un barrido predial masivo
+└── topo_punto_control.csv --> Archivo CSV que tiene la información asociada a los puntos control utilizados por el topógrafo para realizar su levantamiento predial masivo
